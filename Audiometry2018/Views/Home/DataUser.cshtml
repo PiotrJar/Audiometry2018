@@ -1,0 +1,160 @@
+﻿@{
+	ViewBag.Title = "About";
+	Layout = null;
+}
+
+<head>
+	<meta charset="utf-8">
+	<link href="@Url.Content("~/Content/styles.css")" rel="stylesheet" type="text/css" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="@Url.Content("~/Content/main.css")" rel="stylesheet" type="text/css" />
+
+
+
+
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+
+	<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+	<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>-->
+
+	<script>
+(document).ready(function() {
+
+
+	var readURL = function(input) {
+		if (input.files && input.files[0]) {
+			var reader = new FileReader();
+
+			reader.onload = function (e) {
+				$('.avatar').attr('src', e.target.result);
+			}
+
+			reader.readAsDataURL(input.files[0]);
+		}
+	}
+
+
+	$(".file-upload").on('change', function(){
+		readURL(this);
+	});
+});
+	</script>
+
+<style>
+	
+h2{
+	color:white;
+}
+.list-group{
+
+	
+	width:50%;
+	
+
+   
+}
+
+
+.some-page-wrapper {
+  margin: 15px;
+  
+  
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+
+  
+	
+}
+
+.blue-column {
+  
+  height: auto;
+  border-right:solid;
+  border-color:white;
+  
+}
+
+.green-column {
+  
+  height: auto;
+}
+#cssmenu {
+  background: #f96e5b;
+ border: hidden;
+   border-radius: 18px;
+	-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+  width:80%;
+
+  
+ 
+ 
+}
+
+</style>
+
+</head>
+
+<body>
+	<center>
+	<div id='cssmenu'>
+		<ul>
+			<li><a href='Main'><span>Strona główna</span></a></li>
+			<li class='active'><a href='DataUser'><span>Historia wyników</span></a></li>
+			<li><a href='User'><span>Profil</span></a></li>
+			<li class='last'><a href='Instruction'><span>Instruktaż</span></a></li>
+			<li class='last'><a href='Me'><span>O mnie</span></a></li>
+		</ul>
+	</div>
+		</center>
+	<br />
+	<br />
+
+	<div class='some-page-wrapper'>
+		<div class='row'>
+			<div class='column'>
+				<div class='blue-column'>
+					<h2>Wybierz zapisane badanie </h2> 
+					<br />
+					<center>
+						<div class="list-group">
+							<a href="~/Images/audio.gif" class="list-group-item list-group-item-action">First item</a>
+							<a href="#" class="list-group-item list-group-item-action">Second item</a>
+							<a href="#" class="list-group-item list-group-item-action">Third item</a>
+							<a href="#" class="list-group-item list-group-item-action">Third item</a>
+							<a href="#" class="list-group-item list-group-item-action">Third item</a>
+							<a href="#" class="list-group-item list-group-item-action">Third item</a>
+							<a href="#" class="list-group-item list-group-item-action">Third item</a>
+							<a href="#" class="list-group-item list-group-item-action">Third item</a>
+							<a href="#" class="list-group-item list-group-item-action">Third item</a>
+							<a href="#" class="list-group-item list-group-item-action">Third item</a>
+						</div>
+					</center>
+				</div>
+			</div>
+			<div class='column'>
+				<div class='green-column'>
+					<h2>Wynik badania</h2>
+					<br />
+					<div class="text-center">
+						<img src="~/Images/audio.gif" alt="avatar" height="400" width="500">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>

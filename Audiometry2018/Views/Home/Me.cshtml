@@ -1,0 +1,106 @@
+﻿
+@{
+	ViewBag.Title = "Me";
+	Layout = null;
+}
+
+
+<head>
+	<meta charset="utf-8">
+	<link href="@Url.Content("~/Content/styles.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/main.css")" rel="stylesheet" type="text/css" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+	<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>-->
+
+	<script>
+(document).ready(function() {
+
+
+	var readURL = function(input) {
+		if (input.files && input.files[0]) {
+			var reader = new FileReader();
+
+			reader.onload = function (e) {
+				$('.avatar').attr('src', e.target.result);
+			}
+
+			reader.readAsDataURL(input.files[0]);
+		}
+	}
+
+
+	$(".file-upload").on('change', function(){
+		readURL(this);
+	});
+});
+	</script>
+
+ <style>
+		.avatar {
+			vertical-align: middle;
+			width: 150px;
+			height: 150px;
+			border-radius: 50%;
+		}
+		#cssmenu {
+  background: #f96e5b;
+ border: hidden;
+   border-radius: 18px;
+	-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+  width:80%;
+
+ 
+}
+
+</style> 
+
+</head>
+
+<body>
+	<center>
+		<div id='cssmenu'>
+			<ul>
+				<li><a href='Main'><span>Strona główna</span></a></li>
+				<li><a href='DataUser'><span>Historia wyników</span></a></li>
+				<li><a href='User'><span>Profil</span></a></li>
+				<li><a href='Instruction'><span>Instruktaż</span></a></li>
+				<li class='active'><a href='Me'><span>O mnie</span></a></li>
+			</ul>
+		</div>
+	</center>
+
+	<br />
+	<br />
+
+	<div class="row">
+		<div class="col-md-12">
+			<div class="header-index">
+				<img src="~/Images/avatar.png" alt="Avatar" class="avatar">
+			</div>
+		</div>
+	</div>
+	<font color="white">
+		<p class="contact_txt" style="padding-top: 70px; font-size:30px">
+			Student piątego roku <br />
+			Wydział Inżynierii Biomedycznej
+			<br> ul. Roosevelta 40, krypta numer 713
+			<br> 41-800 Zabrze
+			<br>
+			<br>
+		</p>
+		</font>
+		<p class="contact_txt" style="padding-top: 15px; font-size:25px">
+			<i class="fa fa-phone icon" style="font-size: 20px;"></i>
+			<a style="padding-left:15px">32 77 743 343</a>
+		</p>
+
+		<p class="contact_txt" style="padding-bottom: 20px; font-size:25px">
+			<i class="fa fa-envelope icon" style="font-size: 20px;"></i>
+			<a href="mailto:ib_projekt@IP.com" style="font-size: 25px; padding-left:15px; text-decoration:transparent">Jeśli masz pytanie</a>
+		</p>
+</body>
+

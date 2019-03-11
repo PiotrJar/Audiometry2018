@@ -1,0 +1,142 @@
+﻿@{
+	ViewBag.Title = "About";
+	Layout = null;
+}
+
+
+
+
+<head>
+	<meta charset="utf-8">
+	<link href="@Url.Content("~/Content/styles.css")" rel="stylesheet" type="text/css" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="@Url.Content("~/Content/main.css")" rel="stylesheet" type="text/css" />
+	
+	<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+	<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>-->
+
+	<script>
+(document).ready(function() {
+
+
+	var readURL = function(input) {
+		if (input.files && input.files[0]) {
+			var reader = new FileReader();
+
+			reader.onload = function (e) {
+				$('.avatar').attr('src', e.target.result);
+			}
+
+			reader.readAsDataURL(input.files[0]);
+		}
+	}
+
+
+	$(".file-upload").on('change', function(){
+		readURL(this);
+	});
+});
+	</script>
+
+<style>
+   #cssmenu {
+  background: #f96e5b;
+ border: hidden;
+   border-radius: 18px;
+	-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+  width:80%;
+
+  
+ 
+ 
+}
+</style>
+
+</head>
+<body>
+	<center>
+		<div id='cssmenu'>
+			<ul>
+				<li><a href='Main'><span>Strona główna</span></a></li>
+				<li><a href='DataUser'><span>Historia wyników</span></a></li>
+				<li class='active'><a href='User'><span>Profil</span></a></li>
+				<li class='last'><a href='Instruction'><span>Instruktaż</span></a></li>
+				<li class='last'><a href='Me'><span>O mnie</span></a></li>
+			</ul>
+		</div>
+	</center>
+	<font color="white">
+		<div class="container">
+			<h1 class="page-header">Edit Profile</h1>
+			<div class="row">
+				<!-- left column -->
+				<div class="col-md-4 col-sm-6 col-xs-12">
+					<div class="text-center">
+						<img src="~/Images/nell.png" class="avatar img-circle img-thumbnail" alt="avatar">
+						<h6>Upload a different photo...</h6>
+						<input type="file" class="text-center center-block well well-sm">
+					</div>
+				</div>
+				<!-- edit form column -->
+				<div class="col-md-8 col-sm-6 col-xs-12 personal-info">
+					<h3>Personal info</h3>
+					<form class="form-horizontal" role="form">
+						<div class="form-group">
+							<label class="col-lg-3 control-label">First name:</label>
+							<div class="col-lg-8">
+								<input class="form-control" value="Adam" type="text">
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-lg-3 control-label">Last name:</label>
+							<div class="col-lg-8">
+								<input class="form-control" value="Nowak" type="text">
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-lg-3 control-label"> Profession:</label>
+							<div class="col-lg-8">
+								<input class="form-control" value="" type="text">
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-lg-3 control-label">Email:</label>
+							<div class="col-lg-8">
+								<input class="form-control" value="adamnowak@gmail.com" type="text">
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-md-3 control-label">Username:</label>
+							<div class="col-md-8">
+								<input class="form-control" value="nowadam" type="text">
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-md-3 control-label">Password:</label>
+							<div class="col-md-8">
+								<input class="form-control" value="11111122333" type="password">
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-md-3 control-label">Confirm password:</label>
+							<div class="col-md-8">
+								<input class="form-control" value="11111122333" type="password">
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-md-3 control-label"></label>
+							<div class="col-md-8">
+								<input class="btn btn-primary" value="Save Changes" type="button">
+								<span></span>
+								<input class="btn btn-default" value="Cancel" type="reset" onclick="window.location.href='@Url.Action("Main")'">
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+		</font>
+</body>
