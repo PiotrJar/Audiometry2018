@@ -1,0 +1,118 @@
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\ApplicationInsights.config
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\roslyn\csc.exe
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\roslyn\vbc.exe
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\roslyn\VBCSCompiler.exe
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\Audiometry2018.dll.config
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\Audiometry2018.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\Audiometry2018.pdb
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\Antlr3.Runtime.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\EntityFramework.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\EntityFramework.SqlServer.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\Microsoft.AI.Web.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\Newtonsoft.Json.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\System.Web.Helpers.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\System.Web.Mvc.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\System.Web.Optimization.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\System.Web.Razor.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\System.Web.WebPages.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\System.Web.WebPages.Razor.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\WebGrease.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\EntityFramework.xml
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\EntityFramework.SqlServer.xml
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\Microsoft.AI.Web.xml
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\System.Web.Helpers.xml
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\System.Web.Mvc.xml
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\System.Web.Optimization.xml
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\System.Web.Razor.xml
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\System.Web.WebPages.xml
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\System.Web.WebPages.Razor.xml
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\Antlr3.Runtime.pdb
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\bin\Newtonsoft.Json.xml
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\obj\Debug\Audiometry2018.csprojResolveAssemblyReference.cache
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\obj\Debug\Audiometry2018.dll
+C:\Users\Piotr Jarząbek\Desktop\Audiometry2018\Audiometry2018\obj\Debug\Audiometry2018.pdb
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\ApplicationInsights.config
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\roslyn\csc.exe
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\roslyn\vbc.exe
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\roslyn\VBCSCompiler.exe
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Audiometry2018.dll.config
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Audiometry2018.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Audiometry2018.pdb
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Antlr3.Runtime.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\EntityFramework.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\EntityFramework.SqlServer.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Microsoft.AI.Web.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Newtonsoft.Json.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\System.Web.Helpers.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\System.Web.Mvc.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\System.Web.Optimization.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\System.Web.Razor.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\System.Web.WebPages.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\System.Web.WebPages.Razor.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\WebGrease.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\EntityFramework.xml
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\EntityFramework.SqlServer.xml
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Microsoft.AI.Web.xml
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\System.Web.Helpers.xml
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\System.Web.Mvc.xml
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\System.Web.Optimization.xml
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\System.Web.Razor.xml
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\System.Web.WebPages.xml
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\System.Web.WebPages.Razor.xml
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Antlr3.Runtime.pdb
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Newtonsoft.Json.xml
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\obj\Debug\Audiometry2018.csprojResolveAssemblyReference.cache
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\obj\Debug\Audiometry2018.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\obj\Debug\Audiometry2018.pdb
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Json.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\ServiceStack.Text.dll
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\Json.pdb
+C:\Users\Piotr Jarząbek\Desktop\Projekt magisterski\Audiometry2018\Audiometry2018\bin\ServiceStack.Text.xml
